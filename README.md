@@ -73,3 +73,4 @@ int main() {
 <img width="1561" height="743" alt="image" src="https://github.com/user-attachments/assets/8f356986-8196-4c57-833e-82e92e330dfb" />
 
 ## RESULT
+Thus the above code has run and it has been output successfully.
